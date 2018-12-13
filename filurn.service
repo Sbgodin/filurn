@@ -1,0 +1,9 @@
+[Unit]
+Description=Filurn
+
+[Service]
+Type=simple
+ExecStart=+/usr/local/bin/filurn/filurnd.sh
+
+[Install]
+WantedBy=multi-user.target
