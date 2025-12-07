@@ -1,5 +1,7 @@
 # Filurn
 
+Transient encrypted directory
+
 ## Install
 
 * Install inotify-tools
